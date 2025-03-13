@@ -18,3 +18,22 @@ Histogram: BMI vs. Charges
 Boxplot: Smoker vs. Charges
 
 
+#### Model Training
+Simple Linear Regression (BMI and Smoking status)
+Multiple Regression (all features)
+Evaluated R-squared score and Mean Squared Error (MSE)
+Developed Pipelines
+Standardized data
+Applied Polynomial Features
+Trained Linear Regression model
+#### Model Evaluation
+R-squared score
+Mean Squared Error (MSE)
+Ridge Regression
+Applied with alpha=0.001
+Evaluated on original and polynomial-transformed data
+Predictions
+Made using trained models
+Example predictions for new data points shown
+
+
